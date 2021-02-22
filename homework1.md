@@ -27,7 +27,9 @@ library(ggrepel)
 
 Write your narrative here
 
-\`2.
+\`2.how many variables do we have for each pet?
+
+> variables:7
 
 (4 points)
 

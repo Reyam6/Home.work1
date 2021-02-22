@@ -86,7 +86,7 @@ Cat Lucy 102 4 Cat Lily 86 5 Cat Max 83 6 Dog Lucy 337 7 Dog Charlie 306
 \`5. What names are more common for cats than dogs? The ones above the
 line or the ones below the line?
 
-Answer here
+Oliver and lily
 
 (4 points)
 
